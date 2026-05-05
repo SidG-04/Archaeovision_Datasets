@@ -1,0 +1,19 @@
+{
+  "grid_id": "grid_001259_rot000",
+  "site_id": "ronz94",
+  "centroid_lat": -12.894696,
+  "centroid_lon": -62.2604,
+  "site_type": "zanja",
+  "source": "GE_2025.07.08",
+  "rotation_angle": 0,
+  "rotation_step": 120,
+  "extraction_size_km": 1.5,
+  "extraction_pixels": 150,
+  "rotation_buffer_factor": 1.5,
+  "base_cell_size_km": 1.0,
+  "final_size_pixels": 100,
+  "note": "Extracted 150x150, rotated 0\u00b0, cropped to 100x100",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230808T142719_20230808T143119_T20LNL",
+  "cloud_cover": 0.000843,
+  "acquisition_date": 1694589454000
+}
