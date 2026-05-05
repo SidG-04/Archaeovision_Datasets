@@ -1,0 +1,27 @@
+{
+  "grid_id": "grid_000371_rot000_aug3",
+  "site_id": "acrq9",
+  "centroid_lat": -10.105554,
+  "centroid_lon": -66.943269,
+  "site_type": "quadrangle",
+  "source": "GE_2024.02.24",
+  "rotation_angle": 0,
+  "rotation_step": 120,
+  "extraction_size_km": 1.5,
+  "extraction_pixels": 150,
+  "rotation_buffer_factor": 1.5,
+  "base_cell_size_km": 1.0,
+  "final_size_pixels": 100,
+  "note": "Extracted 150x150, rotated 0\u00b0, cropped to 100x100",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230620T144731_20230620T145439_T19LGJ",
+  "cloud_cover": 0.000392,
+  "acquisition_date": 1687298044000,
+  "original_grid_id": "grid_000371_rot000",
+  "augmentation_type": "aug3",
+  "augmentation_method": "radiometric",
+  "augmentation_params": {
+    "brightness": "0%",
+    "contrast": "0%",
+    "noise_sigma": 0.025
+  }
+}
