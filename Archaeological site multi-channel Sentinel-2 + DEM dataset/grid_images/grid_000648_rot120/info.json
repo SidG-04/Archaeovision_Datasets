@@ -1,0 +1,19 @@
+{
+  "grid_id": "grid_000648_rot120",
+  "site_id": "amaq70",
+  "centroid_lat": -9.339892,
+  "centroid_lon": -65.939282,
+  "site_type": "quadrangle",
+  "source": "GE_2025.08.21",
+  "rotation_angle": 120,
+  "rotation_step": 120,
+  "extraction_size_km": 1.5,
+  "extraction_pixels": 150,
+  "rotation_buffer_factor": 1.5,
+  "base_cell_size_km": 1.0,
+  "final_size_pixels": 100,
+  "note": "Extracted 150x150, rotated 120\u00b0, cropped to 100x100",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230702T143729_20230702T143810_T19LHK",
+  "cloud_cover": 0.000846,
+  "acquisition_date": 1688323665000
+}
