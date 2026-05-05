@@ -1,0 +1,27 @@
+{
+  "grid_id": "grid_000801_rot000_aug3",
+  "site_id": "cando",
+  "centroid_lat": -10.960737,
+  "centroid_lon": -66.647955,
+  "site_type": "oval",
+  "source": "GE_2025.02.22",
+  "rotation_angle": 0,
+  "rotation_step": 120,
+  "extraction_size_km": 1.5,
+  "extraction_pixels": 150,
+  "rotation_buffer_factor": 1.5,
+  "base_cell_size_km": 1.0,
+  "final_size_pixels": 100,
+  "note": "Extracted 150x150, rotated 0\u00b0, cropped to 100x100",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230816T143731_20230816T144346_T19LGH",
+  "cloud_cover": 0.006394,
+  "acquisition_date": 1692224101000,
+  "original_grid_id": "grid_000801_rot000",
+  "augmentation_type": "aug3",
+  "augmentation_method": "radiometric",
+  "augmentation_params": {
+    "brightness": "0%",
+    "contrast": "0%",
+    "noise_sigma": 0.025
+  }
+}
