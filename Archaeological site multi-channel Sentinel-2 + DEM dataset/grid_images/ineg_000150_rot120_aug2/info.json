@@ -1,0 +1,28 @@
+{
+  "grid_id": "ineg_000150_rot120_aug2",
+  "source_site_id": "acre49",
+  "source_site_lat": -10.387279,
+  "source_site_lon": -67.589738,
+  "site_radius_m": 47.5,
+  "sampling_distance_m": 307.5,
+  "sampling_distance_px": 30,
+  "rotation_angle": 120,
+  "rotation_step": 120,
+  "extraction_size_km": 1.6724999999999999,
+  "extraction_pixels": 167,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords",
+  "original_grid_id": "ineg_000150_rot120",
+  "augmentation_type": "aug2",
+  "augmentation_method": "radiometric",
+  "augmentation_params": {
+    "brightness": "-8%",
+    "contrast": "-5%",
+    "noise_sigma": 0.015
+  }
+}

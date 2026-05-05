@@ -1,0 +1,19 @@
+{
+  "grid_id": "grid_001458_rot240",
+  "site_id": "zcmer",
+  "centroid_lat": -13.691059,
+  "centroid_lon": -63.436716,
+  "site_type": "zanja",
+  "source": "Erickson,_et.al._2008",
+  "rotation_angle": 240,
+  "rotation_step": 120,
+  "extraction_size_km": 1.5,
+  "extraction_pixels": 150,
+  "rotation_buffer_factor": 1.5,
+  "base_cell_size_km": 1.0,
+  "final_size_pixels": 100,
+  "note": "Extracted 150x150, rotated 240\u00b0, cropped to 100x100",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230619T142719_20230619T142934_T20LMK",
+  "cloud_cover": 0.001374,
+  "acquisition_date": 1687200175000
+}
