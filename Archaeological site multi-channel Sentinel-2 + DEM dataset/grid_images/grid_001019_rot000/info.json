@@ -1,0 +1,19 @@
+{
+  "grid_id": "grid_001019_rot000",
+  "site_id": "rabug",
+  "centroid_lat": -9.837326,
+  "centroid_lon": -66.348077,
+  "site_type": "geoglyph",
+  "source": "GE_2024.09.28",
+  "rotation_angle": 0,
+  "rotation_step": 120,
+  "extraction_size_km": 1.5,
+  "extraction_pixels": 150,
+  "rotation_buffer_factor": 1.5,
+  "base_cell_size_km": 1.0,
+  "final_size_pixels": 100,
+  "note": "Extracted 150x150, rotated 0\u00b0, cropped to 100x100",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230702T143729_20230702T143810_T19LGK",
+  "cloud_cover": 0.000396,
+  "acquisition_date": 1688323665000
+}
