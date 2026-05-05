@@ -1,0 +1,19 @@
+{
+  "grid_id": "grid_001316_rot240",
+  "site_id": "sjuo4",
+  "centroid_lat": -10.683844,
+  "centroid_lon": -68.147229,
+  "site_type": "oval",
+  "source": "GE_2025.07.21",
+  "rotation_angle": 240,
+  "rotation_step": 120,
+  "extraction_size_km": 1.5,
+  "extraction_pixels": 150,
+  "rotation_buffer_factor": 1.5,
+  "base_cell_size_km": 1.0,
+  "final_size_pixels": 100,
+  "note": "Extracted 150x150, rotated 240\u00b0, cropped to 100x100",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230725T144729_20230725T144731_T19LEJ",
+  "cloud_cover": 0.00079,
+  "acquisition_date": 1690312459000
+}
