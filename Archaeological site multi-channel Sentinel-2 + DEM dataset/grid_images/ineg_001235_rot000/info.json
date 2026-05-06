@@ -1,0 +1,20 @@
+{
+  "grid_id": "ineg_001235_rot000",
+  "source_site_id": "ronz72",
+  "source_site_lat": -12.039316,
+  "source_site_lon": -62.965717,
+  "site_radius_m": 252.0,
+  "sampling_distance_m": 512.0,
+  "sampling_distance_px": 51,
+  "rotation_angle": 0,
+  "rotation_step": 120,
+  "extraction_size_km": 2.286,
+  "extraction_pixels": 228,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords"
+}

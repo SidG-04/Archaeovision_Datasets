@@ -1,0 +1,28 @@
+{
+  "grid_id": "ineg_001102_rot000_aug1",
+  "source_site_id": "ronge",
+  "source_site_lat": -9.861705,
+  "source_site_lon": -66.426563,
+  "site_radius_m": 216.0,
+  "sampling_distance_m": 476.0,
+  "sampling_distance_px": 47,
+  "rotation_angle": 0,
+  "rotation_step": 120,
+  "extraction_size_km": 2.178,
+  "extraction_pixels": 217,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords",
+  "original_grid_id": "ineg_001102_rot000",
+  "augmentation_type": "aug1",
+  "augmentation_method": "radiometric",
+  "augmentation_params": {
+    "brightness": "+8%",
+    "contrast": "+5%",
+    "noise_sigma": 0.015
+  }
+}

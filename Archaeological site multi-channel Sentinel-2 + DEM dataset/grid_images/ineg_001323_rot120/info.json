@@ -1,0 +1,20 @@
+{
+  "grid_id": "ineg_001323_rot120",
+  "source_site_id": "slorz",
+  "source_site_lat": -15.514862,
+  "source_site_lon": -65.682168,
+  "site_radius_m": 507.5,
+  "sampling_distance_m": 767.5,
+  "sampling_distance_px": 76,
+  "rotation_angle": 120,
+  "rotation_step": 120,
+  "extraction_size_km": 3.0525,
+  "extraction_pixels": 305,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords"
+}
