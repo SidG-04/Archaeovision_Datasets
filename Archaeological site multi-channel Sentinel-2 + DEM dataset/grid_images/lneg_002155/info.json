@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_002155",
+  "centroid_lat": -15.514672156765146,
+  "centroid_lon": -71.47037829248822,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Majes Valley +3.6km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230628T145729_20230628T145830_T18LZH",
+  "cloud_cover": 0.000484,
+  "acquisition_date": 1687977839000
+}

@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001196",
+  "centroid_lat": -16.36920666991115,
+  "centroid_lon": -72.56055191303209,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Pacific Ocean - Arequipa coast +7.3km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230114T145721_20230114T150058_T18KYG",
+  "cloud_cover": 0.028241,
+  "acquisition_date": 1673726042000
+}

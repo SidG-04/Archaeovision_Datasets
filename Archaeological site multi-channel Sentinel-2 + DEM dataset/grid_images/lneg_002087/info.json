@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_002087",
+  "centroid_lat": -12.748440741374623,
+  "centroid_lon": -76.22351768354537,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Mala Valley +6.0km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230704T151709_20230704T152531_T18LUM",
+  "cloud_cover": 0.649809,
+  "acquisition_date": 1688497132000
+}

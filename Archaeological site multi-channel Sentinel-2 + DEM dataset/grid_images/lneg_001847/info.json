@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001847",
+  "centroid_lat": -11.163037674155413,
+  "centroid_lon": -75.89305571085121,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Jun\u00edn agricultural area +4.2km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230604T151709_20230604T152447_T18LUN",
+  "cloud_cover": 0.001894,
+  "acquisition_date": 1685905272000
+}

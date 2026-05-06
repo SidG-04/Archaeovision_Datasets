@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001817",
+  "centroid_lat": -14.821522118305968,
+  "centroid_lon": -75.94815681473537,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Palpa Valley +5.7km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230110T151701_20230110T152237_T18LUJ",
+  "cloud_cover": 0.015587,
+  "acquisition_date": 1673381571000
+}

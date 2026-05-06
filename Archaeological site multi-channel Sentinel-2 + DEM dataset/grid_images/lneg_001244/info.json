@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001244",
+  "centroid_lat": -8.027655866095612,
+  "centroid_lon": -79.03010537072342,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Pacific Ocean - Trujillo coast +4.5km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20231122T153621_20231122T153621_T17MQM",
+  "cloud_cover": 0.670727,
+  "acquisition_date": 1700686670000
+}

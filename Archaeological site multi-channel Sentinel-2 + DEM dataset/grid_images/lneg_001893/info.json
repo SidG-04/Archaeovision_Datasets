@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001893",
+  "centroid_lat": -8.607466272916886,
+  "centroid_lon": -78.4510574998047,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Chicama Valley - Trujillo +5.5km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230617T152639_20230617T152917_T17LQL",
+  "cloud_cover": 1.006939,
+  "acquisition_date": 1687030653000
+}

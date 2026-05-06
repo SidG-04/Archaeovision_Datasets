@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000488",
+  "centroid_lat": -17.850442710698225,
+  "centroid_lon": -63.20748424320569,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Santa Cruz, Bolivia +7.9km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230815T141719_20230815T141824_T20KMF",
+  "cloud_cover": 0.001361,
+  "acquisition_date": 1692124810000
+}

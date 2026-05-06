@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000845",
+  "centroid_lat": -6.723964478111238,
+  "centroid_lon": -79.97329371711248,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Chiclayo, Peru +7.8km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230928T153619_20230928T154438_T17MPN",
+  "cloud_cover": 0.843229,
+  "acquisition_date": 1695935575000
+}

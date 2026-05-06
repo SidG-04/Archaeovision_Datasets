@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000726",
+  "centroid_lat": -14.079810322622661,
+  "centroid_lon": -75.72751846260337,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Ica, Peru +1.8km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230515T151709_20230515T152439_T18LVK",
+  "cloud_cover": 0.000286,
+  "acquisition_date": 1684177366000
+}

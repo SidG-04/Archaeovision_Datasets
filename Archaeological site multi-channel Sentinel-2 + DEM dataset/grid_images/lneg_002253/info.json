@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_002253",
+  "centroid_lat": -9.490584445942433,
+  "centroid_lon": -77.45202955027362,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Casma Valley +5.4km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230821T152641_20230821T153259_T18LTQ",
+  "cloud_cover": 0.010534,
+  "acquisition_date": 1692657898000
+}

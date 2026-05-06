@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000915",
+  "centroid_lat": -15.854955739321616,
+  "centroid_lon": -69.91196100489871,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Lake Titicaca (south) +3.4km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230620T144731_20230620T145439_T19LCC",
+  "cloud_cover": 3.7e-05,
+  "acquisition_date": 1687298044000
+}

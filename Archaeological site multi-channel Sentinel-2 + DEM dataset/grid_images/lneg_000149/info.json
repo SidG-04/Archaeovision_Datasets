@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000149",
+  "centroid_lat": -13.563768064522016,
+  "centroid_lon": -71.93119622807956,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Cusco, Peru +5.3km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230703T145731_20230703T150449_T18LZK",
+  "cloud_cover": 0.001393,
+  "acquisition_date": 1688418595000
+}

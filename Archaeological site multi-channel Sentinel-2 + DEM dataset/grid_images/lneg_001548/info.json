@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001548",
+  "centroid_lat": -4.462814747886012,
+  "centroid_lon": -73.25198784047676,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Amazon River - Peru +7.1km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230917T151711_20230917T152113_T18MXA",
+  "cloud_cover": 0.326276,
+  "acquisition_date": 1694987762000
+}

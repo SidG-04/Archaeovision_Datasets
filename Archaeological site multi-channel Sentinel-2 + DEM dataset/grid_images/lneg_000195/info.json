@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000195",
+  "centroid_lat": -11.012409241631918,
+  "centroid_lon": -76.81815708941605,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Huancayo, Peru +5.6km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230604T151709_20230604T152447_T18LUN",
+  "cloud_cover": 0.001894,
+  "acquisition_date": 1685905272000
+}

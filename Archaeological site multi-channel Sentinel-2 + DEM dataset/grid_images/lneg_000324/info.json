@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000324",
+  "centroid_lat": -12.556750083201083,
+  "centroid_lon": -69.25167863493004,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Puerto Maldonado, Peru +7.7km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230829T144731_20230829T145328_T19LDG",
+  "cloud_cover": 0.005901,
+  "acquisition_date": 1693343335000
+}

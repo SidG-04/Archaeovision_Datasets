@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000540",
+  "centroid_lat": -18.96832059340317,
+  "centroid_lon": -65.23145742410924,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Sucre, Bolivia +7.9km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230430T142719_20230430T143622_T19KHV",
+  "cloud_cover": 0,
+  "acquisition_date": 1682880650000
+}

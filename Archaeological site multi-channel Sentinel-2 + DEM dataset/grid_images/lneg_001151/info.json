@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001151",
+  "centroid_lat": -11.933334776787522,
+  "centroid_lon": -77.06012058120743,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Pacific Ocean - Lima coast +8.6km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20231211T151719_20231211T151748_T18LTM",
+  "cloud_cover": 0.099691,
+  "acquisition_date": 1702322996000
+}

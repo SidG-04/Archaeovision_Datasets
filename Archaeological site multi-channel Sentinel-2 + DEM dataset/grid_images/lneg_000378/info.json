@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000378",
+  "centroid_lat": -16.48786287125271,
+  "centroid_lon": -68.16059959626612,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "La Paz, Bolivia +1.8km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230426T144729_20230426T145621_T19KEB",
+  "cloud_cover": 0,
+  "acquisition_date": 1682534847000
+}

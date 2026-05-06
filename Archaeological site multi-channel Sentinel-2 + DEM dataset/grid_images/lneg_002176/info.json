@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_002176",
+  "centroid_lat": -16.949016865796324,
+  "centroid_lon": -66.00408977489907,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Cochabamba Valley, Bolivia +5.7km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230801T143729_20230801T143734_T19KHB",
+  "cloud_cover": 0.854474,
+  "acquisition_date": 1690915718000
+}

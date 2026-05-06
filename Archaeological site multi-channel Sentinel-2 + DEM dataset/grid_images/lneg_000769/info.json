@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000769",
+  "centroid_lat": -8.056503770795125,
+  "centroid_lon": -79.05571508898205,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Trujillo, Peru +6.8km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20231122T153621_20231122T153621_T17MQM",
+  "cloud_cover": 0.670727,
+  "acquisition_date": 1700686670000
+}

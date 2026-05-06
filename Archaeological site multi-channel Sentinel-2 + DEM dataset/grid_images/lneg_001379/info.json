@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001379",
+  "centroid_lat": -11.827909915213851,
+  "centroid_lon": -75.13425216012952,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Rio Mantaro area +7.8km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230624T151709_20230624T152526_T18LVM",
+  "cloud_cover": 8e-05,
+  "acquisition_date": 1687633111000
+}

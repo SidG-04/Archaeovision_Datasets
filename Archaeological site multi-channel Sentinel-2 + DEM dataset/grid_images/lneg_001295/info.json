@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001295",
+  "centroid_lat": -13.250628905141124,
+  "centroid_lon": -76.27603730735134,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Pacific Ocean - Pisco coast +10.0km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20231211T151719_20231211T151748_T18LUL",
+  "cloud_cover": 2.122697,
+  "acquisition_date": 1702322996000
+}

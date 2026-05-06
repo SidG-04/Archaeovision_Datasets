@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001477",
+  "centroid_lat": -8.460617885345483,
+  "centroid_lon": -74.04924261731612,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Rio Ucayali +7.0km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230808T151711_20230808T152425_T18LXR",
+  "cloud_cover": 0.141593,
+  "acquisition_date": 1691534517000
+}

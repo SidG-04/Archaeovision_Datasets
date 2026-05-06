@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001927",
+  "centroid_lat": -6.916013633480835,
+  "centroid_lon": -79.66267983940178,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Lambayeque Valley +4.5km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230928T153619_20230928T154438_T17MPN",
+  "cloud_cover": 0.843229,
+  "acquisition_date": 1695935575000
+}

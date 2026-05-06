@@ -1,0 +1,13 @@
+{
+  "grid_id": "unla_001069",
+  "location_id": "neg_1069",
+  "centroid_lat": -13.663981203061251,
+  "centroid_lon": -69.57694131280626,
+  "label": -1,
+  "landscape_type": "background",
+  "sampling_method": "random_background_with_exclusion",
+  "notes": "Unlabeled - may or may not contain archaeological sites",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230620T144731_20230620T145439_T19LDE",
+  "cloud_cover": 0.001712,
+  "acquisition_date": 1687298044000
+}

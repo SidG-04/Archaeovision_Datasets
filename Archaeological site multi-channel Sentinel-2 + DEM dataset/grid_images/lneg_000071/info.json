@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000071",
+  "centroid_lat": -16.38728837815447,
+  "centroid_lon": -71.52585300802573,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Arequipa, Peru +2.7km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230114T145721_20230114T150058_T19KBB",
+  "cloud_cover": 0.074907,
+  "acquisition_date": 1673726042000
+}

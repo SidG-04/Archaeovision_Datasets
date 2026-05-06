@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_002101",
+  "centroid_lat": -13.741255748144088,
+  "centroid_lon": -76.49794461609136,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Chincha Valley +4.6km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230110T151701_20230110T152237_T18LUK",
+  "cloud_cover": 0.03355,
+  "acquisition_date": 1673381571000
+}

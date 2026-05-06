@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000669",
+  "centroid_lat": -10.973888987619217,
+  "centroid_lon": -77.60630713386509,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Huacho, Peru +3.5km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230727T152649_20230727T152643_T18LTN",
+  "cloud_cover": 0.2793,
+  "acquisition_date": 1690490885000
+}

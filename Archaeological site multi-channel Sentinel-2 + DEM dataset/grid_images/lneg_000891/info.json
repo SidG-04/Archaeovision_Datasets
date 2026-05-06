@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000891",
+  "centroid_lat": -5.192782250761139,
+  "centroid_lon": -80.58528689707077,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Piura, Peru +5.3km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20231210T155219_20231210T155216_T17MNQ",
+  "cloud_cover": 0.024921,
+  "acquisition_date": 1702236655000
+}

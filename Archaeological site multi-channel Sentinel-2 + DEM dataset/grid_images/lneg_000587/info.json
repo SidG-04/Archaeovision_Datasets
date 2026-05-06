@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000587",
+  "centroid_lat": -17.390007922777425,
+  "centroid_lon": -66.19582927156841,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Cochabamba, Bolivia +4.1km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230702T143729_20230702T143810_T19KGA",
+  "cloud_cover": 0.000199,
+  "acquisition_date": 1688323665000
+}

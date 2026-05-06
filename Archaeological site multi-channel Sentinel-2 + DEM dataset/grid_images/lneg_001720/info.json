@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001720",
+  "centroid_lat": -13.679330267797093,
+  "centroid_lon": -73.76105368542514,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Rio Apur\u00edmac +7.0km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230726T150721_20230726T151309_T18LXK",
+  "cloud_cover": 0,
+  "acquisition_date": 1690407239000
+}

@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_000273",
+  "centroid_lat": -8.390361241235274,
+  "centroid_lon": -74.50767159645225,
+  "label": 0,
+  "neg_type": "urban",
+  "location_description": "Pucallpa, Peru +5.2km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230808T151711_20230808T152425_T18LWR",
+  "cloud_cover": 0.600134,
+  "acquisition_date": 1691534517000
+}

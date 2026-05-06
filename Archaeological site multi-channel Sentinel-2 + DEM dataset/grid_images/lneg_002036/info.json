@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_002036",
+  "centroid_lat": -17.77520877585473,
+  "centroid_lon": -62.9638809939159,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Santa Cruz agricultural plain, Bolivia +4.7km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230815T141719_20230815T141824_T20KMF",
+  "cloud_cover": 0.001361,
+  "acquisition_date": 1692124810000
+}

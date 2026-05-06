@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001969",
+  "centroid_lat": -5.541605700820502,
+  "centroid_lon": -80.42840066899406,
+  "label": 0,
+  "neg_type": "cropland",
+  "location_description": "Piura agricultural region +5.6km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20231212T153621_20231212T153710_T17MNP",
+  "cloud_cover": 1.015205,
+  "acquisition_date": 1702413770000
+}

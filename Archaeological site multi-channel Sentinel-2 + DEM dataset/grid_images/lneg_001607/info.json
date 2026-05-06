@@ -1,0 +1,13 @@
+{
+  "grid_id": "lneg_001607",
+  "centroid_lat": -17.89629835860871,
+  "centroid_lon": -67.08289884628513,
+  "label": 0,
+  "neg_type": "water",
+  "location_description": "Lake Poop\u00f3, Bolivia +8.6km",
+  "source": "manual_coordinates_with_variations",
+  "sampling_method": "base_location_plus_random_offset",
+  "gee_image_id": "COPERNICUS/S2_SR_HARMONIZED/20230816T143731_20230816T144346_T19KFA",
+  "cloud_cover": 2.3e-05,
+  "acquisition_date": 1692224101000
+}
