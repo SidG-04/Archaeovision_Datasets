@@ -1,0 +1,20 @@
+{
+  "grid_id": "ineg_000407_rot120",
+  "source_site_id": "acrs12",
+  "source_site_lat": -10.06049,
+  "source_site_lon": -67.061856,
+  "site_radius_m": 40.0,
+  "sampling_distance_m": 300.0,
+  "sampling_distance_px": 29,
+  "rotation_angle": 120,
+  "rotation_step": 120,
+  "extraction_size_km": 1.6500000000000001,
+  "extraction_pixels": 165,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords"
+}
