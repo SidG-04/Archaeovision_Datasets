@@ -1,0 +1,28 @@
+{
+  "grid_id": "ineg_000960_rot120_aug2",
+  "source_site_id": "namog",
+  "source_site_lat": -10.311704,
+  "source_site_lon": -65.27731,
+  "site_radius_m": 86.5,
+  "sampling_distance_m": 346.5,
+  "sampling_distance_px": 34,
+  "rotation_angle": 120,
+  "rotation_step": 120,
+  "extraction_size_km": 1.7895,
+  "extraction_pixels": 178,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords",
+  "original_grid_id": "ineg_000960_rot120",
+  "augmentation_type": "aug2",
+  "augmentation_method": "radiometric",
+  "augmentation_params": {
+    "brightness": "-8%",
+    "contrast": "-5%",
+    "noise_sigma": 0.015
+  }
+}

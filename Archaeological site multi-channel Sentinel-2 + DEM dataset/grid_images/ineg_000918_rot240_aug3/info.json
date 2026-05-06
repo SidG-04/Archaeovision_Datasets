@@ -1,0 +1,28 @@
+{
+  "grid_id": "ineg_000918_rot240_aug3",
+  "source_site_id": "lporz",
+  "source_site_lat": -14.864017,
+  "source_site_lon": -64.389917,
+  "site_radius_m": 665.0,
+  "sampling_distance_m": 925.0,
+  "sampling_distance_px": 92,
+  "rotation_angle": 240,
+  "rotation_step": 120,
+  "extraction_size_km": 3.5250000000000004,
+  "extraction_pixels": 352,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords",
+  "original_grid_id": "ineg_000918_rot240",
+  "augmentation_type": "aug3",
+  "augmentation_method": "radiometric",
+  "augmentation_params": {
+    "brightness": "0%",
+    "contrast": "0%",
+    "noise_sigma": 0.025
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "grid_id": "ineg_001069_rot120",
+  "source_site_id": "rondq",
+  "source_site_lat": -9.643157,
+  "source_site_lon": -65.900987,
+  "site_radius_m": 80.5,
+  "sampling_distance_m": 340.5,
+  "sampling_distance_px": 34,
+  "rotation_angle": 120,
+  "rotation_step": 120,
+  "extraction_size_km": 1.7715,
+  "extraction_pixels": 177,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords"
+}
