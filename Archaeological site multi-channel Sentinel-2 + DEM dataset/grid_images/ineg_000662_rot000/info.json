@@ -1,0 +1,20 @@
+{
+  "grid_id": "ineg_000662_rot000",
+  "source_site_id": "amare",
+  "source_site_lat": -9.499476,
+  "source_site_lon": -67.628893,
+  "site_radius_m": 92.0,
+  "sampling_distance_m": 352.0,
+  "sampling_distance_px": 35,
+  "rotation_angle": 0,
+  "rotation_step": 120,
+  "extraction_size_km": 1.806,
+  "extraction_pixels": 180,
+  "rotation_buffer_factor": 1.5,
+  "final_size_pixels": 100,
+  "label": 0,
+  "neg_type": "integrated_context",
+  "concatenation": "sharp_boundaries",
+  "generation_method": "same_area_as_positive_rotate_sample_corners",
+  "note": "Extracted same area as positive, rotated, sampled 4 corners in rotated coords"
+}
